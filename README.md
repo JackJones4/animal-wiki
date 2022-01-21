@@ -17,21 +17,20 @@ _When launched, this website will display a simple dropdown menu where the user 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Firstly, you'll want to make sure that you have Git installed on your computer_
+* _With Git installed, you will first need to clone the project using "git clone (insert link provided)". Do this from the comand line_
+* _Once you have cloned the project, you are able to open up the project folder_
+* _Now you can right click, and select the browser that you wish to open the project in_
 
-_Here is a link to the GitHub pages:_
+_Here is a link to the GitHub pages: (_
+_You may also access the live site using this link_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Cannot go to an empty page once you choose an animal unless full page is refreshed_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Licensed by MIT (https://opensource.org/licenses/MIT)_
 
 Copyright (c) _2022_ _Jack Jones_
