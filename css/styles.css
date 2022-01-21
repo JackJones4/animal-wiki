@@ -1,4 +1,21 @@
-img {
-  display: block;
+#elk {
+  display: none;
+}
 
+#bison {
+  display: none;
+}
+
+#brownbear {
+  display: none;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: orange;
+}
+
+#formAnimals {
+  text-align: center;
 }
